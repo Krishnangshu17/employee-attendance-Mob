@@ -1,0 +1,27 @@
+from You Tube video - https://www.youtube.com/watch?v=bbizRxjyz64&t=928s
+1. To create project in expo npx create-expo-app employee-yt --template blank
+2. cd employee-yt
+3. code .
+4. rnfes to create boiler plate
+5. install  from extention option ES7+ React/Redux/React-Native/JS snippets
+6. create api folder under root directory
+7. cd to api folder and run npm init to create package.json
+8. run command npm install body-parser cors express mongoose nodemon
+9. Create index.js file under api folder
+10.Create MonogoDB connection in Api/index.js file
+11.Test the connaction by npm start
+11.Create modals folder and then create DB Schema files
+12.npx expo install expo-linear-gradient
+13.Get All icons from https://icons.expo.fyi/Index
+14.Install npm install axios
+15.Install moment - npm install moment
+
+
+
+rnfes
+
+
+
+
+
+mongodb+srv://krishnangshu:<password>@mumbaicluster.mv6avox.mongodb.net/?retryWrites=true&w=majority&appName=MumbaiCluster
